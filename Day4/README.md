@@ -87,7 +87,7 @@ by calling:
 print(chat("What coffees do you have on the menu?"))
 print(chat("Are you open on Sunday?"))
 print(chat("How much are 3 lattes?"))
-print(chat("I'm Alex. Please order 2 lattes for 6 Dec at 10 am."))
+print(chat("I'm Alex. Please order 2 cold coffee for 6 Dec at 10 am."))
 ```
 
 Use a valid menu item and provide the customer's name, quantity, and
